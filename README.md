@@ -1,3 +1,7 @@
+## 学んだこと
+
+- 環境構築をdocker run … composer create-projectとgit cloneで行う違い
+
 # Laravel Middleware Starter
 
 ミドルウェアハンズオン（10-2-4）用のスターターキットです。
@@ -8,8 +12,8 @@
 - Fortify認証（ログイン / 登録 / ログアウト）
 - Userモデル（is_adminカラム付き）
 - テストユーザー（シーダー）
-  - 管理者: admin@example.com / password
-  - 一般: user@example.com / password
+    - 管理者: admin@example.com / password
+    - 一般: user@example.com / password
 - AdminController
 - 管理者ページ（/admin）
 
